@@ -67,7 +67,7 @@ export const cactusData: CactusSpecies[] = [
       temperature: '5-40°C, морозостойкая',
       soil: 'Любая хорошо дренированная почва'
     },
-    image: '/img/e130d63b-e4ce-4afd-9c7e-344ec4d335a5.jpg',
+    image: 'https://cdn.poehali.dev/files/28261965-19e5-4eaf-add8-2feec1a377cb.jpg',
     blooming: 'Июнь-август, желтые цветы',
     size: '2-5 м в высоту',
     difficulty: 'Легкий'
