@@ -211,7 +211,7 @@ export const cactusData: CactusSpecies[] = [
       temperature: '20-30°C летом, 8-12°C зимой',
       soil: 'Кактусовая смесь с добавлением крупного песка и перлита'
     },
-    image: '/img/22461683-1ae6-4212-afa2-7b0d2e165a0f.jpg',
+    image: 'https://cdn.poehali.dev/files/3324cd0e-b44b-468f-8e13-1de5b2c6128f.jpg',
     blooming: 'Весна-лето, мелкие розовые или белые цветы',
     size: '8-15 см в диаметре',
     difficulty: 'Средний'
